@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+    pulley
+    ~~~~~~
+
+    :copyright: (c) 2016 by Andrew Bednar.
+"""
 from flask import Flask
 from .config import config_by_name
 from .resources.users import UsersCollection

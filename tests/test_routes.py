@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-tests.test_routes.py
+    tests.test_routes
+    ~~~~~~~~~~~~~~~~~
+
+    :copyright: (c) 2016 by Andrew Bednar.
 """
 import json
 import pytest

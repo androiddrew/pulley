@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+    tests.conftest
+    ~~~~~~~~~~~~~~
+
+    :copyright: (c) 2016 by Andrew Bednar.
+"""
 import os
 import pytest
 

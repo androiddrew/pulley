@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-pulley.resources.users.py
+    pulley.resources.users
+    ~~~~~~~~~~~~~~~~~~~~~~
+
+    :copyright: (c) 2016 by Andrew Bednar.
 """
 from flask.views import MethodView
 from flask import jsonify, request

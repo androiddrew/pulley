@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+    tests.test_units
+    ~~~~~~~~~~~~~~~~
+
+    :copyright: (c) 2016 by Andrew Bednar.
+"""
 from pulley.util import PulleyMethodView
 from unittest.mock import Mock
 

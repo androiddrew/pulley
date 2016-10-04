@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+    pulley.config
+    ~~~~~~~~~~~~~
+
+    :copyright: (c) 2016 by Andrew Bednar.
+"""
 import os
 
 # Might reconsider root path attribute in the app creation
